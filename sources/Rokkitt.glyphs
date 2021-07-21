@@ -1,6 +1,6 @@
 {
-.appVersion = "1141";
-copyright = "Copyright 2016 The Rokkit Project Authors (contact@sansoxygen.com)";
+.appVersion = "1349";
+copyright = "Copyright 2016 The Rokkit Project Authors (https://github.com/googlefonts/RokkittFont)";
 customParameters = (
 {
 name = vendorID;
@@ -216,15 +216,6 @@ value = 1111;
 {
 name = winDescent;
 value = 324;
-},
-{
-name = "Axis Location";
-value = (
-{
-Axis = Weight;
-Location = 100;
-}
-);
 }
 );
 descender = -200;
@@ -291,15 +282,6 @@ value = 1111;
 {
 name = winDescent;
 value = 324;
-},
-{
-name = "Axis Location";
-value = (
-{
-Axis = Weight;
-Location = 400;
-}
-);
 }
 );
 descender = -200;
@@ -366,15 +348,6 @@ value = 1111;
 {
 name = winDescent;
 value = 324;
-},
-{
-name = "Axis Location";
-value = (
-{
-Axis = Weight;
-Location = 900;
-}
-);
 }
 );
 descender = -200;
@@ -105160,10 +105133,6 @@ value = -320;
 {
 name = hheaLineGap;
 value = 0;
-},
-{
-name = weightClass;
-value = 275;
 }
 );
 interpolationWeight = 198;
@@ -106426,5 +106395,5 @@ com.typesupply.MetricsMachine4.groupColors = {
 };
 };
 versionMajor = 3;
-versionMinor = 2;
+versionMinor = 3;
 }
