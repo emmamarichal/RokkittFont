@@ -105,6 +105,10 @@ x,
 y,
 z
 );
+},
+{
+name = "Variable Font Origin";
+value = "14AB8F11-4722-4116-93B5-2CBF67C8CE3C";
 }
 );
 date = "2016-12-06 21:35:03 +0000";
@@ -51506,6 +51510,51 @@ width = 707;
 }
 );
 unicode = 7716;
+},
+{
+glyphname = IJ;
+layers = (
+{
+layerId = "98C086B7-81AA-4491-8494-0C6A76849168";
+shapes = (
+{
+ref = I;
+},
+{
+pos = (280,0);
+ref = J;
+}
+);
+width = 550;
+},
+{
+layerId = "14AB8F11-4722-4116-93B5-2CBF67C8CE3C";
+shapes = (
+{
+ref = I;
+},
+{
+pos = (320,0);
+ref = J;
+}
+);
+width = 635;
+},
+{
+layerId = "EFCDB4D9-E20B-4A8D-9DB5-150AD166B0AE";
+shapes = (
+{
+ref = I;
+},
+{
+pos = (360,0);
+ref = J;
+}
+);
+width = 720;
+}
+);
+unicode = 306;
 },
 {
 glyphname = Iacute;
@@ -116215,6 +116264,51 @@ width = 513;
 org.robofab.postScriptHintData = {
 };
 };
+},
+{
+glyphname = ij;
+layers = (
+{
+layerId = "98C086B7-81AA-4491-8494-0C6A76849168";
+shapes = (
+{
+ref = i;
+},
+{
+pos = (221,0);
+ref = j;
+}
+);
+width = 437;
+},
+{
+layerId = "14AB8F11-4722-4116-93B5-2CBF67C8CE3C";
+shapes = (
+{
+ref = i;
+},
+{
+pos = (256,0);
+ref = j;
+}
+);
+width = 506;
+},
+{
+layerId = "EFCDB4D9-E20B-4A8D-9DB5-150AD166B0AE";
+shapes = (
+{
+ref = i;
+},
+{
+pos = (288,0);
+ref = j;
+}
+);
+width = 573;
+}
+);
+unicode = 307;
 },
 {
 glyphname = imacron;

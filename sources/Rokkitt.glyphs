@@ -108,6 +108,10 @@ x,
 y,
 z
 );
+},
+{
+name = "Variable Font Origin";
+value = "086393EE-48A8-42B6-AE05-10B6A30445E6";
 }
 );
 date = "2016-12-06 21:35:03 +0000";
@@ -55634,6 +55638,51 @@ width = 707;
 }
 );
 unicode = 7716;
+},
+{
+glyphname = IJ;
+layers = (
+{
+layerId = "98C086B7-81AA-4491-8494-0C6A76849168";
+shapes = (
+{
+ref = I;
+},
+{
+pos = (280,0);
+ref = J;
+}
+);
+width = 550;
+},
+{
+layerId = "086393EE-48A8-42B6-AE05-10B6A30445E6";
+shapes = (
+{
+ref = I;
+},
+{
+pos = (319,0);
+ref = J;
+}
+);
+width = 634;
+},
+{
+layerId = "EFCDB4D9-E20B-4A8D-9DB5-150AD166B0AE";
+shapes = (
+{
+ref = I;
+},
+{
+pos = (360,0);
+ref = J;
+}
+);
+width = 720;
+}
+);
+unicode = 306;
 },
 {
 glyphname = Iacute;
@@ -123683,6 +123732,51 @@ width = 513;
 org.robofab.postScriptHintData = {
 };
 };
+},
+{
+glyphname = ij;
+layers = (
+{
+layerId = "98C086B7-81AA-4491-8494-0C6A76849168";
+shapes = (
+{
+ref = i;
+},
+{
+pos = (237,0);
+ref = j;
+}
+);
+width = 460;
+},
+{
+layerId = "086393EE-48A8-42B6-AE05-10B6A30445E6";
+shapes = (
+{
+ref = i;
+},
+{
+pos = (266,0);
+ref = j;
+}
+);
+width = 521;
+},
+{
+layerId = "EFCDB4D9-E20B-4A8D-9DB5-150AD166B0AE";
+shapes = (
+{
+ref = i;
+},
+{
+pos = (294,0);
+ref = j;
+}
+);
+width = 582;
+}
+);
+unicode = 307;
 },
 {
 glyphname = imacron;
@@ -211404,25 +211498,27 @@ layers = (
 layerId = "98C086B7-81AA-4491-8494-0C6A76849168";
 shapes = (
 {
+pos = (89,0);
 ref = minute;
 },
 {
 ref = minute;
 }
 );
-width = 92;
+width = 181;
 },
 {
 layerId = "EFCDB4D9-E20B-4A8D-9DB5-150AD166B0AE";
 shapes = (
 {
+pos = (180,0);
 ref = minute;
 },
 {
 ref = minute;
 }
 );
-width = 178;
+width = 358;
 },
 {
 background = {
@@ -211451,6 +211547,7 @@ layerId = "086393EE-48A8-42B6-AE05-10B6A30445E6";
 shapes = (
 {
 alignment = -1;
+pos = (130,0);
 ref = minute;
 },
 {
@@ -211458,7 +211555,7 @@ alignment = -1;
 ref = minute;
 }
 );
-width = 135;
+width = 265;
 }
 );
 unicode = 698;
