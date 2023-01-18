@@ -6,7 +6,7 @@ axisOrder:
   - ital
 familyName: Rokkitt
 buildVariable: true
-buildStatic: false
+buildOTF: false
 stat:
   Rokkitt[wght].ttf:
   - name: Weight

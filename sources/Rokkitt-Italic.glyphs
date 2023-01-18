@@ -109,6 +109,22 @@ z
 {
 name = "Variable Font Origin";
 value = "14AB8F11-4722-4116-93B5-2CBF67C8CE3C";
+},
+{
+name = "Axis Mappings";
+value = {
+wght = {
+100 = 30;
+200 = 47;
+300 = 59;
+400 = 82;
+500 = 105;
+600 = 111;
+700 = 137;
+800 = 170;
+900 = 200;
+};
+};
 }
 );
 date = "2016-12-06 21:35:03 +0000";
@@ -274,7 +290,7 @@ tag = liga;
 fontMaster = (
 {
 axesValues = (
-100
+30
 );
 customParameters = (
 {
@@ -369,7 +385,7 @@ GSOffsetVertical = -7;
 },
 {
 axesValues = (
-500
+105
 );
 customParameters = (
 {
@@ -469,7 +485,7 @@ name = "Medium Italic";
 },
 {
 axesValues = (
-900
+200
 );
 customParameters = (
 {
@@ -202356,7 +202372,7 @@ unicode = 712;
 instances = (
 {
 axesValues = (
-100
+30
 );
 instanceInterpolations = {
 "98C086B7-81AA-4491-8494-0C6A76849168" = 1;
@@ -202366,33 +202382,33 @@ weightClass = 100;
 },
 {
 axesValues = (
-200
+47
 );
 instanceInterpolations = {
-"14AB8F11-4722-4116-93B5-2CBF67C8CE3C" = 0.25;
-"98C086B7-81AA-4491-8494-0C6A76849168" = 0.75;
+"14AB8F11-4722-4116-93B5-2CBF67C8CE3C" = 0.22667;
+"98C086B7-81AA-4491-8494-0C6A76849168" = 0.77333;
 };
 name = "ExtraLight Italic";
 weightClass = 200;
 },
 {
 axesValues = (
-300
+59
 );
 instanceInterpolations = {
-"14AB8F11-4722-4116-93B5-2CBF67C8CE3C" = 0.5;
-"98C086B7-81AA-4491-8494-0C6A76849168" = 0.5;
+"14AB8F11-4722-4116-93B5-2CBF67C8CE3C" = 0.38667;
+"98C086B7-81AA-4491-8494-0C6A76849168" = 0.61333;
 };
 name = "Light Italic";
 weightClass = 300;
 },
 {
 axesValues = (
-400
+82
 );
 instanceInterpolations = {
-"14AB8F11-4722-4116-93B5-2CBF67C8CE3C" = 0.75;
-"98C086B7-81AA-4491-8494-0C6A76849168" = 0.25;
+"14AB8F11-4722-4116-93B5-2CBF67C8CE3C" = 0.69333;
+"98C086B7-81AA-4491-8494-0C6A76849168" = 0.30667;
 };
 isItalic = 1;
 linkStyle = Regular;
@@ -202400,7 +202416,7 @@ name = Italic;
 },
 {
 axesValues = (
-500
+105
 );
 instanceInterpolations = {
 "14AB8F11-4722-4116-93B5-2CBF67C8CE3C" = 1;
@@ -202410,22 +202426,22 @@ weightClass = 500;
 },
 {
 axesValues = (
-600
+111
 );
 instanceInterpolations = {
-"14AB8F11-4722-4116-93B5-2CBF67C8CE3C" = 0.75;
-"EFCDB4D9-E20B-4A8D-9DB5-150AD166B0AE" = 0.25;
+"14AB8F11-4722-4116-93B5-2CBF67C8CE3C" = 0.93684;
+"EFCDB4D9-E20B-4A8D-9DB5-150AD166B0AE" = 0.06316;
 };
 name = "SemiBold Italic";
 weightClass = 600;
 },
 {
 axesValues = (
-700
+137
 );
 instanceInterpolations = {
-"14AB8F11-4722-4116-93B5-2CBF67C8CE3C" = 0.5;
-"EFCDB4D9-E20B-4A8D-9DB5-150AD166B0AE" = 0.5;
+"14AB8F11-4722-4116-93B5-2CBF67C8CE3C" = 0.66316;
+"EFCDB4D9-E20B-4A8D-9DB5-150AD166B0AE" = 0.33684;
 };
 isBold = 1;
 isItalic = 1;
@@ -202434,18 +202450,18 @@ weightClass = 700;
 },
 {
 axesValues = (
-800
+170
 );
 instanceInterpolations = {
-"14AB8F11-4722-4116-93B5-2CBF67C8CE3C" = 0.25;
-"EFCDB4D9-E20B-4A8D-9DB5-150AD166B0AE" = 0.75;
+"14AB8F11-4722-4116-93B5-2CBF67C8CE3C" = 0.31579;
+"EFCDB4D9-E20B-4A8D-9DB5-150AD166B0AE" = 0.68421;
 };
 name = "ExtraBold Italic";
 weightClass = 800;
 },
 {
 axesValues = (
-900
+200
 );
 instanceInterpolations = {
 "EFCDB4D9-E20B-4A8D-9DB5-150AD166B0AE" = 1;
