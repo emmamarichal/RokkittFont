@@ -1,7 +1,12 @@
 # Rokkit
 by Vernon Adams
 
+![Sample Image](documentation/image1.png)
+
 Rokkitt is a Free Software Slab Serif font family.
+
+![Sample Image](documentation/image2.png)
+![Sample Image](documentation/image3.png)
 
 # Completed tasks:
 - Updated version number to V3.000
