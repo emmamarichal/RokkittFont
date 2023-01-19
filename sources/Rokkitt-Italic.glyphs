@@ -1,6 +1,11 @@
 {
 .appVersion = "3148";
 .formatVersion = 3;
+DisplayStrings = (
+"
+EVAVAVATATATA
+HHVAHHLYHTJHHUAHHTAHHXOHHLWJHHKQHHLVAYFAM"
+);
 axes = (
 {
 name = Weight;
@@ -202478,7 +202483,7 @@ kerningLTR = {
 "@MMK_R_O" = -10;
 "@MMK_R_T" = -40;
 "@MMK_R_U" = -5;
-"@MMK_R_V" = -30;
+"@MMK_R_V" = -50;
 "@MMK_R_X" = -10;
 "@MMK_R_Y" = -50;
 "@MMK_R_a" = -5;
@@ -202807,7 +202812,7 @@ ampersand = -5;
 "@MMK_R_z" = -10;
 };
 "@MMK_L_V" = {
-"@MMK_R_A" = -30;
+"@MMK_R_A" = -50;
 "@MMK_R_J" = -10;
 "@MMK_R_O" = -15;
 "@MMK_R_S" = -15;
