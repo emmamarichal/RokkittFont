@@ -1,11 +1,6 @@
 {
 .appVersion = "3148";
 .formatVersion = 3;
-DisplayStrings = (
-"
-EVAVAVATATATA
-HHVAHHLYHTJHHUAHHTAHHXOHHLWJHHKQHHLVAYFAM"
-);
 axes = (
 {
 name = Weight;
@@ -181321,7 +181316,7 @@ associatedMasterId = "98C086B7-81AA-4491-8494-0C6A76849168";
 attr = {
 axisRules = (
 {
-min = 600;
+min = 115;
 }
 );
 };
@@ -181454,7 +181449,7 @@ associatedMasterId = "EFCDB4D9-E20B-4A8D-9DB5-150AD166B0AE";
 attr = {
 axisRules = (
 {
-min = 600;
+min = 115;
 }
 );
 };
@@ -181788,7 +181783,7 @@ associatedMasterId = "14AB8F11-4722-4116-93B5-2CBF67C8CE3C";
 attr = {
 axisRules = (
 {
-min = 600;
+min = 115;
 }
 );
 };
